@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/viresh nagthane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viresh nagthane" height="30" width="40" /></a>
-<a href="https://kaggle.com/viresh nagthane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="viresh nagthane" height="30" width="40" /></a>
-<a href="https://instagram.com/viru_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viru_09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viresh-nagthane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viresh-nagthane" height="30" width="40" /></a>
+<a href="https://kaggle.com/vireshnagthane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vireshnagthane" height="30" width="40" /></a>
+<a href="https://instagram.com/viresh_09_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viresh_09_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vigil_idea_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vigil_idea_22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vireshnagthane9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vireshnagthane9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/viresh_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viresh_09" height="30" width="40" /></a>
