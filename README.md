@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vireshnagthane</h1>
-<h3 align="center">👨‍💻 SY IT Student ☁️ Aspiring Cloud Computing Engineer 🌐 Strong in Computer Networking 🚀 Learning | Building | Improving every day</h3>
+<h3 align="center">👨‍💻 TY IT Student ☁️ Data science student  🌐 Strong in Computer Networking 🚀 Learning | Building | Improving every day</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
