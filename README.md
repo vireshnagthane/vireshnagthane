@@ -1,56 +1,131 @@
-<h1 align="center">Hi 👋, I'm viresh nagthane</h1>
-<h3 align="center">frontend web developer</h3>
+<div align="center">
+<img src="https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif" align="center" style="width: 100%" />
+</div>
+
+<h1 align="center">Hi 👋, I'm Viresh Nagthane</h1>
+
+<h3 align="center">
+Information Technology Student | Full Stack Developer
+</h3>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/vireshnagthane)
-[<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/vireshnagthanee)
-[<img src="https://img.shields.io/badge/Twitter-102216?style=for-the-badge&logo=x&logoColor=11d452"/>](https://twitter.com/Charly59758925)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:vireshnagthane9@gmail.com)
-</p>
+  <a href="https://www.linkedin.com/in/vireshnagthane/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
 
-<hr/>
+  <a href="https://www.reddit.com/StrikingBirthday2716/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vireshnagthane&color=11d452&style=for-the-badge" alt="Visitor Badge" />
-</p>
+  <a href="https://x.com/Charly59758925" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 
-## About Me
-
-Welcome! 👋
-
-I'm **Viresh Nagthane**, a passionate and results-driven Frontend Web Developer dedicated to building engaging, responsive, and user-centric web applications. With a keen eye for detail and a commitment to best practices, I specialize in translating innovative designs into seamless, high-performance user interfaces. My primary goal is to craft digital experiences that are not only visually appealing but also intuitive and highly functional for end-users.
-
-Currently, I am actively involved in developing robust and scalable frontend solutions, focusing on enhancing user interaction and optimizing application performance across various platforms. I thrive in dynamic environments and am always eager to contribute to projects that push the boundaries of web technology.
-
-Committed to continuous professional development, I am consistently expanding my expertise. I am currently deepening my knowledge in advanced JavaScript concepts and modern framework architectures, while also exploring new methodologies in web accessibility and performance optimization to ensure I deliver cutting-edge solutions.
-
-I am always open to collaborating on innovative projects, discussing new opportunities, or connecting with fellow professionals. Please feel free to reach out—I welcome connections and meaningful conversations!
-
-You can connect with me directly via email: ✉️ [vireshnagthane9@gmail.com](mailto:vireshnagthane9@gmail.com)
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vireshnagthane&show_icons=true&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vireshnagthane&layout=compact&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vireshnagthane&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vireshnagthane&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://leetcode.com/viresh_09/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
-Built with [GPRG](https://gprg.bhalli.dev)
+
+## 🚀 About Me
+
+- 🎓 Information Technology student at **Sanjivani College of Engineering**
+- 📅 **2024 – 2028**
+- 💻 Interested in **Full Stack Web Development**
+- 🌱 Currently learning and building applications using **FastAPI, Node.js, and modern frontend technologies**
+- ⚡ Interested in creating practical, responsive, and user-friendly applications
+- 🧠 Regularly practicing **Data Structures & Algorithms**
+- 🔧 Exploring **APIs, backend development, and web technologies**
+- 🚀 Always learning and experimenting with new technologies
+- 🤝 Open to collaborating on interesting development projects
+
+---
+
+## 🎓 Education
+
+**Sanjivani College of Engineering**
+
+**Information Technology**  
+**2024 – 2028**
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vireshnagthane&label=Profile%20views&color=0e75b6&style=flat" alt="vireshnagthane" />
+</p>
+
+---
+
+## 💼 Tech Stack
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🌐 Applications & Platforms
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Mayur Driving School** | Application developed for managing and presenting driving school services and information. | Kotlin | [GitHub](https://github.com/vireshnagthane) |
+| **IBSL** | Full-stack project developed as part of the IBSL project ecosystem. | Full Stack | [GitHub](https://github.com/vireshnagthane) |
+| **Kalpana Dental Clinic** | Digital solution developed for a dental clinic as part of the IBSL project ecosystem. | Full Stack | [GitHub](https://github.com/vireshnagthane) |
+
+---
+
+## 🧩 What I'm Currently Working On
+
+- 🚀 Building **full-stack web applications**
+- ⚡ Learning and developing APIs with **FastAPI**
+- 🌐 Improving my **frontend development** skills
+- 🟢 Working with **Node.js** for backend development
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🔗 Exploring API integrations and backend architecture
+- 💡 Turning real-world ideas into practical applications
+
+---
+
+## 📈 My Development Journey
+
+```text
+Information Technology Student
+          ↓
+   Web Development
+          ↓
+   Frontend Development
+          ↓
+   Backend Development
+          ↓
+    API Development
+          ↓
+    Full Stack Projects
+          ↓
+   Continuous Learning 🚀
